@@ -99,6 +99,9 @@ It is not intended for commercial use.
 All historical content is presented for learning and reference.
 
 
+## Live Demo
+https://samurai-shinsengumi-ai-guide-ttmalsfdpkpn6zphqdhglv.streamlit.app/
+
 
 
 
