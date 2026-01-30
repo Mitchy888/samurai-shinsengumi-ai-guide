@@ -100,7 +100,8 @@ All historical content is presented for learning and reference.
 
 
 ## Live Demo
-https://samurai-shinsengumi-ai-guide-ttmalsfdpkpn6zphqdhglv.streamlit.app/
+
+[Click here to try the app](https://samurai-shinsengumi-ai-guide-ttmalsfdpkpn6zphqdhglv.streamlit.app/)
 
 
 
